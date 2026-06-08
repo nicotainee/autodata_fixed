@@ -1,0 +1,6 @@
+{
+  "name": "AutoData",
+  "description": "Temukan, bandingkan, dan prediksi harga mobil baru serta bekas menggunakan Machine Learning (Linear Regression & Random Forest) dan Gemini AI Expert Analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
